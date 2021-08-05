@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <button onClick={() => handleGoogleAuth(googleProvider)}>
-        Sign In using Google
+        Sign In using Google!
       </button>
     </div>
   );
